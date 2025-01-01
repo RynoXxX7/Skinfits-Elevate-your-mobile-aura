@@ -3,4 +3,5 @@ Welcome to SkinFits—where style meets technology! Explore our vibrant collecti
 
 ![image alt](https://github.com/manav004-dev/Skinfits-ecommerce-website/blob/019319887b0d980fc615e430b045844b271a9337/screencapture-localhost-Skinfits-home-php-2025-01-01-17_58_40.png)
 ![image alt](https://github.com/manav004-dev/Skinfits-ecommerce-website/blob/019319887b0d980fc615e430b045844b271a9337/Screenshot%202025-01-01%20180320.png)
+![image alt](https://github.com/manav004-dev/Skinfits-ecommerce-website/blob/99f2139cf742ccddd454778078ad33110efbe682/aboutus_ss.png)
 ![image alt](https://github.com/manav004-dev/Skinfits-ecommerce-website/blob/019319887b0d980fc615e430b045844b271a9337/Screenshot%202025-01-01%20180544.png)
